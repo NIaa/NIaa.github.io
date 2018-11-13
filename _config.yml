@@ -1,0 +1,26 @@
+# Site settings
+title: Veil
+# email: 
+author: Niaa
+description: >
+  Niaa's blog
+baseurl: ""
+# url: "https:"
+keywords: blog
+# twitter:
+github_username: Niaa
+# permalink: /:year/:month/:day/:title/
+# domain: 
+# Build settings
+markdown: kramdown
+# exclude:
+highlighter: rouge
+# paginate: 12
+#defaults:
+#  - scope:
+#      path: "gist"
+#    values:
+#      gist: true
+#      layout: gist
+repository: https://github.com/NIaa/NIaa.github.io 
+repository_name: NIaa.github.io
